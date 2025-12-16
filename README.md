@@ -19,10 +19,9 @@ Exercice 4 :
 <img width="1506" height="1282" alt="ex4  execution suite 1" src="https://github.com/user-attachments/assets/f3635114-857d-4676-8fc4-c37c061f729a" />
 
 
+
+
 2eme execution : 
-
-
-<img width="1506" height="1282" alt="ex4  execution suite 1" src="https://github.com/user-attachments/assets/fd5a1199-db75-467d-b7e4-ba7b5a3f8585" />
 
 
 <img width="1627" height="1104" alt="ex4 execution 2-1" src="https://github.com/user-attachments/assets/4762506c-4c8b-4f99-ae16-a5355339a194" />
